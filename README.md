@@ -1,6 +1,6 @@
 ### **Les étapes d’apprentissage d’Ansible, de débutant à expert**  
 
----
+![Ansible Linux](image/ansible-linux.jpg)
 
 ## **🔹 Niveau 1 : Débutant (Fondations d’Ansible)**  
 ### **Comprendre les bases d’Ansible**  
